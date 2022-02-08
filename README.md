@@ -1,5 +1,5 @@
-# This is a new univers from the main code, wich was my firts "Hola Mundo" on GitHUB.
-Amazing, no?
+# This is a new universe from the main code, wich was my first "Hola Mundo" on GitHUB.
+Amazing, right?
 My first branches test on GitHub
 //Writting in english to also practice it 
 End
